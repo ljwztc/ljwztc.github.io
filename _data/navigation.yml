@@ -1,0 +1,16 @@
+# site navigation links
+
+- title: About
+  url: /"/"/
+
+- title: Publications
+  url: /publications/
+
+- title: Experience
+  url: /experience/
+
+- title: Honors and Awards
+  url: /prize
+
+- title: Miscellany
+  url: /miscellany
