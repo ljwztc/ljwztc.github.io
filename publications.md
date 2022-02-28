@@ -9,6 +9,9 @@ image:
 ---
 
 {% include _toc.html %}
+
+[Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=k05bkIEAAAAJ){:target="blank"} 
+
 ## 2022
 Stay tuned!
 
