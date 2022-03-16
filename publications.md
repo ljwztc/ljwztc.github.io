@@ -13,7 +13,28 @@ image:
 [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=k05bkIEAAAAJ){:target="blank"} 
 
 ## 2022
-Stay tuned!
+### Journal
+* Instance Importance-Aware Graph Convolutional Network for 3D Medical Diagnosis  
+Zhen Chen, <b>Jie Liu</b>, Meilu Zhu, Peter Y. M. Woo, Yixuan Yuan. 
+<em>Medical Image Analysis</em> (<i><b>MedIA</b></i>), 2022.
+\[[<font color="brown">paper</font>](){:target="blank"}\]  \[[<font color="brown">Code</font>](){:target="blank"}\]  
+<small>_We propose a Multi-Instance Learning framework named Instance Importance-aware Graph Convolutional Network (I2GCN), which measures the instance importance and explores the complementary information among instances._</small>  
+    <details> <summary>bibtex</summary>   
+        Stay tuned!
+    </details>  
+&nbsp;
+
+### Conference
+* SimT: Handling Open-set Noise for Domain Adaptive Semantic Segmentation  
+Xiaoqing Guo, <b>Jie Liu</b>, Tongliang Liu, Yixuan Yuan.  
+<em>IEEE Conference on Computer Vision and Pattern Recognition</em> (<i><b>CVPR</b></i>), 2022, New Orleans, Louisiana.
+\[[<font color="brown">paper</font>](){:target="blank"}\]  \[[<font color="brown">Code</font>](){:target="blank"}\]  
+<small>_We present a general DA semantic segmentation framework named SIMplex noise Transition matrix (SimT), which utilizes computational geometry analysis to model the closed-set and open-set noise distributions of target pseudo labels._</small>  
+    <details> <summary>bibtex</summary>   
+        Stay tuned!
+    </details>  
+&nbsp;
+
 
 ## 2021
 ### Journal
