@@ -35,7 +35,7 @@ Zhen Chen, <b>Jie Liu</b>, Meilu Zhu, Peter Y. M. Woo, Yixuan Yuan.
 ### Conference
 * Unknown-Oriented Learning for Open Set Domain Adaptation  
 <b>Jie Liu</b>, Xiaoqing Guo, Yixuan Yuan.  
-<em>The 17th European Conference on Computer Vision</em> (<i><b>ECCV</b></i>), 2022, Tel-Aviv. [<font color="red">Early Accept</font>]  
+<em>The 17th European Conference on Computer Vision</em> (<i><b>ECCV</b></i>), 2022, Tel-Aviv.  
 \[[<font color="brown">paper</font>](){:target="blank"}\]  \[[<font color="brown">code</font>](){:target="blank"}\]  
 <small>_In open set domain adaptation (OSDA) problem, we dig out the valuable information in unknown category via multi-unknown detector and label graph propagation._</small>  
     <details> <summary>bibtex</summary>   
