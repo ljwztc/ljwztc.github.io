@@ -12,8 +12,8 @@ image:
 
 
 ## Research
-* Reviewer for CVPR22, MICCAI22
-* Conference Presentation in IROS21, MICCAI21.
+* Reviewer for ECCV 2022, CVPR 2022, MICCAI 2022, IMLH in ICML 2022.
+* Conference Presentation in IROS 2021, MICCAI 2021.
 
 ## Teaching
 * EE6605: Complex Networks Modeling, Dynamics and Control, TA

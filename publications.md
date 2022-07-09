@@ -17,21 +17,55 @@ image:
 * Instance Importance-Aware Graph Convolutional Network for 3D Medical Diagnosis  
 Zhen Chen, <b>Jie Liu</b>, Meilu Zhu, Peter Y. M. Woo, Yixuan Yuan. 
 <em>Medical Image Analysis</em> (<i><b>MedIA</b></i>), 2022.
-\[[<font color="brown">paper</font>](){:target="blank"}\]  \[[<font color="brown">Code</font>](){:target="blank"}\]  
+\[[<font color="brown">paper</font>](https://www.sciencedirect.com/science/article/pii/S136184152200072X){:target="blank"}\]  \[[<font color="brown">Code</font>](https://github.com/CityU-AIM-Group/I2GCN){:target="blank"}\]  
 <small>_We propose a Multi-Instance Learning framework named Instance Importance-aware Graph Convolutional Network (I2GCN), which measures the instance importance and explores the complementary information among instances._</small>  
     <details> <summary>bibtex</summary>   
-        Stay tuned!
+        <br />@article{chen2022instance,
+        <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;title={Instance importance-Aware graph convolutional network for 3D medical diagnosis},
+        <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;author={Chen, Zhen and Liu, Jie and Zhu, Meilu and Woo, Peter YM and Yuan, Yixuan},
+        <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;journal={Medical Image Analysis},
+        <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;volume={78},
+        <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;pages={102421},
+        <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;year={2022},
+        <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;publisher={Elsevier}
+        <br />}
     </details>  
 &nbsp;
 
 ### Conference
+* Unknown-Oriented Learning for Open Set Domain Adaptation  
+<b>Jie Liu</b>, Xiaoqing Guo, Yixuan Yuan.  
+<em>The 17th European Conference on Computer Vision</em> (<i><b>ECCV</b></i>), 2022, Tel-Aviv. [<font color="red">Early Accept</font>]  
+\[[<font color="brown">paper</font>](){:target="blank"}\]  \[[<font color="brown">code</font>](){:target="blank"}\]  
+<small>_In open set domain adaptation (OSDA) problem, we dig out the valuable information in unknown category via multi-unknown detector and label graph propagation._</small>  
+    <details> <summary>bibtex</summary>   
+        Stay tuned!  
+    </details>  
+&nbsp;
+
+* Edge-oriented Point-cloud Transformer for 3D Intracranial Aneurysm Segmentation  
+Yifan Liu, <b>Jie Liu</b>, Yixuan Yuan.  
+<em>International Conference on Medical Image Computing and Computer Assisted Intervention</em> (<i><b>MICCAI</b></i>), 2022, Singapore. [<font color="red">Early Accept</font>]  
+\[[<font color="brown">paper</font>](){:target="blank"}\]  \[[<font color="brown">code</font>](https://github.com/yifliu3/EPT-Net){:target="blank"}\]  
+<small>_To achieve accurate surgery procedure, we focus on edge modeling in 3D point data and propose an Edge-oriented Point-cloud Transformer Network (EPT-Net) with transformer and graph techniques._</small>  
+    <details> <summary>bibtex</summary>   
+        Stay tuned!  
+    </details>  
+&nbsp;
+
 * SimT: Handling Open-set Noise for Domain Adaptive Semantic Segmentation  
 Xiaoqing Guo, <b>Jie Liu</b>, Tongliang Liu, Yixuan Yuan.  
 <em>IEEE Conference on Computer Vision and Pattern Recognition</em> (<i><b>CVPR</b></i>), 2022, New Orleans, Louisiana.
-\[[<font color="brown">paper</font>](){:target="blank"}\]  \[[<font color="brown">Code</font>](){:target="blank"}\]  
+\[[<font color="brown">paper</font>](https://openaccess.thecvf.com/content/CVPR2022/html/Guo_SimT_Handling_Open-Set_Noise_for_Domain_Adaptive_Semantic_Segmentation_CVPR_2022_paper.html){:target="blank"}\]  \[[<font color="brown">Code</font>](https://github.com/CityU-AIM-Group/SimT){:target="blank"}\]  \[[<font color="brown">Zhihu</font>](https://zhuanlan.zhihu.com/p/475830652){:target="blank"}\]  
 <small>_We present a general DA semantic segmentation framework named SIMplex noise Transition matrix (SimT), which utilizes computational geometry analysis to model the closed-set and open-set noise distributions of target pseudo labels._</small>  
     <details> <summary>bibtex</summary>   
-        Stay tuned!
+        <br />@inproceedings{guo2022simt,
+        <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;title={SimT: Handling Open-set Noise for Domain Adaptive Semantic Segmentation},
+        <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;author={Guo, Xiaoqing and Liu, Jie and Liu, Tongliang and Yuan, Yixuan},
+        <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+        <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;pages={7032--7041},
+        <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;year={2022}
+        <br />}
     </details>  
 &nbsp;
 
