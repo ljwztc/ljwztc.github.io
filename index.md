@@ -20,6 +20,8 @@ In this stage, my research aims to develop novel <b>machine learning</b> algorit
       [03 / 2023] One paper accepted by CVPR 2023  <br> 
       [02 / 2023] Our Universal Model ranks 1st in the <a href="https://decathlon-10.grand-challenge.org/evaluation/challenge/leaderboard/" target="_blank"><font color="brown">MSD Competition</font></a> <br> 
       [02 / 2023] One paper accepted by IEEE TPAMI  <br> 
+      [09 / 2022] Outstanding Academic Performance Award of City University of Hong Kong  <br> 
+      [09 / 2022] Research Tuition Scholarship of City University of Hong Kong <br> 
       [07 / 2022] One paper accepted by ECCV 2022 <br> 
       [05 / 2022] One paper early accepted by MICCAI 2022 (top 13% submissions) <br> 
       [03 / 2022] One paper accepted by MedIA <br> 
