@@ -24,3 +24,7 @@ image:
 * Team Leader, “Caring for Migrant Children” Summer Social Practice (Top Ten Summer Social Practice Award), Aug 2017
 * Chairman of Human Resource Department, Zhejiang University Lantian Academy Student Union, Sep. 2017 - Jun. 2018.
 * Deputy Secretary General, Hong Kong Wenzhou New Generation Association, Jan. 2023 - Current.
+
+## Fundings
+* HKD 100,000 funding from HK Tech 300, 2023.
+* HKD 100,000 funding from HKSTP Ideation Programme, 2023.
