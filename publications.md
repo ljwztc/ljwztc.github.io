@@ -12,6 +12,17 @@ image:
 
 [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=k05bkIEAAAAJ){:target="blank"} 
 
+## 2023
+### Journal
+* Handling Open-set Noise and Novel Target Recognition in Domain Adaptive Semantic Segmentation  
+Xiaoqing Guo, <b>Jie Liu</b>, Tongliang Liu, Yixuan Yuan.  
+<em>IEEE Transactions on Pattern Analysis and Machine Intelligence</em> (<i><b>IEEE TPAMI</b></i>), 2023
+\[[<font color="brown">paper</font>](https://ieeexplore.ieee.org/abstract/document/10048580){:target="blank"}\]  
+    <details> <summary>bibtex</summary>   
+        Stay tuned!  
+    </details>  
+&nbsp;
+
 ## 2022
 ### Journal
 * Instance Importance-Aware Graph Convolutional Network for 3D Medical Diagnosis  
@@ -35,21 +46,35 @@ Zhen Chen, <b>Jie Liu</b>, Meilu Zhu, Peter Y. M. Woo, Yixuan Yuan.
 ### Conference
 * Unknown-Oriented Learning for Open Set Domain Adaptation  
 <b>Jie Liu</b>, Xiaoqing Guo, Yixuan Yuan.  
-<em>The 17th European Conference on Computer Vision</em> (<i><b>ECCV</b></i>), 2022, Tel-Aviv.  
-\[[<font color="brown">paper</font>](){:target="blank"}\]  \[[<font color="brown">code</font>](){:target="blank"}\]  
+<em>The 17th European Conference on Computer Vision</em> (<i><b>ECCV</b></i>), 2022, Tel-Aviv.
+\[[<font color="brown">paper</font>](https://link.springer.com/chapter/10.1007/978-3-031-19827-4_20){:target="blank"}\]  
 <small>_In open set domain adaptation (OSDA) problem, we dig out the valuable information in unknown category via multi-unknown detector and label graph propagation._</small>  
     <details> <summary>bibtex</summary>   
-        Stay tuned!  
+        <br />@inproceedings{liu2022unknown,
+        <br />title={Unknown-Oriented Learning for Open Set Domain Adaptation},
+        <br />author={Liu, Jie and Guo, Xiaoqing and Yuan, Yixuan},
+        <br />booktitle={Computer Vision--ECCV 2022: 17th European Conference, Tel Aviv, Israel, October 23--27, 2022, Proceedings, Part XXXIII},
+        <br />pages={334--350},
+        <br />year={2022},
+        <br />organization={Springer}
+        <br />}
     </details>  
 &nbsp;
 
 * Edge-oriented Point-cloud Transformer for 3D Intracranial Aneurysm Segmentation  
 Yifan Liu, <b>Jie Liu</b>, Yixuan Yuan.  
-<em>International Conference on Medical Image Computing and Computer Assisted Intervention</em> (<i><b>MICCAI</b></i>), 2022, Singapore. [<font color="red">Early Accept</font>]  
+<em>International Conference on Medical Image Computing and Computer Assisted Intervention</em> (<i><b>MICCAI</b></i>), 2022, Singapore. [<font color="red">Early Accept</font>]
 \[[<font color="brown">paper</font>](){:target="blank"}\]  \[[<font color="brown">code</font>](https://github.com/yifliu3/EPT-Net){:target="blank"}\]  
 <small>_To achieve accurate surgery procedure, we focus on edge modeling in 3D point data and propose an Edge-oriented Point-cloud Transformer Network (EPT-Net) with transformer and graph techniques._</small>  
     <details> <summary>bibtex</summary>   
-        Stay tuned!  
+        <br />@inproceedings{liu2022edge,
+        <br />title={Edge-Oriented Point-Cloud Transformer for 3D Intracranial Aneurysm Segmentation},
+        <br />author={Liu, Yifan and Liu, Jie and Yuan, Yixuan},
+        <br />booktitle={Medical Image Computing and Computer Assisted Intervention--MICCAI 2022: 25th International Conference, Singapore, September 18--22, 2022, Proceedings, Part V},
+        <br />pages={97--106},
+        <br />year={2022},
+        <br />organization={Springer}
+        <br />}
     </details>  
 &nbsp;
 

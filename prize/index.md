@@ -7,7 +7,8 @@ comments: true
 image: 
     feature: 
 ---
-
+Research Tuition Scholarship (2022) <br>
+Outstanding Academic Performance Award (2022) <br>
 Outstanding Diploma Thesis Award (2020) <br>
 Outstanding Graduates of Zhejiang University (2020) <br>
 Second Prize of the National Talents Training Base (2020) <br>
