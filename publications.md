@@ -13,6 +13,12 @@ image:
 [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=k05bkIEAAAAJ){:target="blank"} 
 
 ## 2023
+### arXiv Preprint
+* CLIP-Driven Universal Model for Organ Segmentation and Tumor Detection  
+<b>Jie Liu</b>, Yixiao Zhang, Jie-Neng Chen, Junfei Xiao, Yongyi Lu, Yixuan Yuan, Alan Yuille, Yucheng Tang, Zongwei Zhou \[[<font color="brown">paper</font>](https://arxiv.org/abs/2301.00785v1){:target="blank"}\]  \[[<font color="brown">code</font>](https://github.com/ljwztc/CLIP-Driven-Universal-Model){:target="blank"}\]  
+<small>_Rank 1st in Medical Segmentation Decathlon (MSD) Competition._</small>  
+
+
 ### Journal
 * Handling Open-set Noise and Novel Target Recognition in Domain Adaptive Semantic Segmentation  
 Xiaoqing Guo, <b>Jie Liu</b>, Tongliang Liu, Yixuan Yuan.  
