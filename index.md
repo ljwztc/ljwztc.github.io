@@ -13,11 +13,15 @@ I am currently a third year (2020-2024) Ph.D. student in the <a href="https://ww
 Previously, I got my B.E. in Electronic Science and Technology from the <a href="http://www.zju.edu.cn/english/"><font color="brown">Zhejiang University(ZJU)</font></a> in 2020. I had great honor to work with Professor <a href="https://scholar.google.com/citations?user=xdQSx54AAAAJ&hl=zh-CN" target="_blank"><font color="brown">Zhaoyang ZHANG</font></a>, <a href="https://scholar.google.de/citations?user=l1UWN14AAAAJ&hl=en" target="_blank"><font color="brown">Chunguang LI</font></a> and <a href="https://scholar.google.com/citations?user=tekfySwAAAAJ&hl=zh-CN" target="_blank"><font color="brown">Xiaojing GONG</font></a>. 
 
 <br />
-In this stage, my research aims to develop novel <b>machine learning</b> algorithms for <b>medical image analysis</b> that can handle <b>incomplete data</b>. My previous focus has been on addressing challenges related to <b>Distribution Shift</b>, <b>Open Set Learning</b>, and <b>Partial Label Learning</b> in order to create effective learning systems. Currently, I am also devoted to low-level vision enhancement in medical images.
+In this stage, my research aims to develop novel <b>machine learning</b> algorithms for <b>device-agnostic medical data processing and analysis</b>. My previous focus has been on addressing challenges related to <b>Distribution Shift</b>, <b>Open Set Learning</b>, and <b>Partial Label Learning</b> in order to create effective learning systems. Currently, I am also devoted to low-level vision enhancement in medical images.
 
 ## News
 <p style="margin-left: 0px; line-height: 150%; margin-top: 8px; margin-bottom: 8px;"><font face="Arial" size="3">
+      [09 / 2023] Research Tuition Scholarship of City University of Hong Kong <br> 
+      [07 / 2023] One paper accepted by RSNA 2023  <br> 
+      [07 / 2023] One paper accepted by ICCV 2023  <br> 
       [03 / 2023] One paper accepted by CVPR 2023  <br> 
+      [03 / 2023] One paper accepted by IEEE TMI  <br> 
       [02 / 2023] Our Universal Model ranks 1st in the <a href="https://decathlon-10.grand-challenge.org/evaluation/challenge/leaderboard/" target="_blank"><font color="brown">MSD Competition</font></a> <br> 
       [02 / 2023] One paper accepted by IEEE TPAMI  <br> 
       [09 / 2022] Outstanding Academic Performance Award of City University of Hong Kong  <br> 

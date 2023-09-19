@@ -7,6 +7,8 @@ comments: true
 image: 
     feature: 
 ---
+Research Tuition Scholarship (2023) <br>
+1st place in Medical Segmentation Decathlon Competition (2023)  <br>
 Research Tuition Scholarship (2022) <br>
 Outstanding Academic Performance Award (2022) <br>
 Outstanding Diploma Thesis Award (2020) <br>

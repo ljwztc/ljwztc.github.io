@@ -13,19 +13,74 @@ image:
 [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=k05bkIEAAAAJ){:target="blank"} 
 
 ## 2023
-### arXiv Preprint
-* CLIP-Driven Universal Model for Organ Segmentation and Tumor Detection  
-<b>Jie Liu</b>, Yixiao Zhang, Jie-Neng Chen, Junfei Xiao, Yongyi Lu, Yixuan Yuan, Alan Yuille, Yucheng Tang, Zongwei Zhou \[[<font color="brown">paper</font>](https://arxiv.org/abs/2301.00785v1){:target="blank"}\]  \[[<font color="brown">code</font>](https://github.com/ljwztc/CLIP-Driven-Universal-Model){:target="blank"}\]  
-<small>_Rank 1st in Medical Segmentation Decathlon (MSD) Competition._</small>  
-
-
 ### Journal
 * Handling Open-set Noise and Novel Target Recognition in Domain Adaptive Semantic Segmentation  
 Xiaoqing Guo, <b>Jie Liu</b>, Tongliang Liu, Yixuan Yuan.  
 <em>IEEE Transactions on Pattern Analysis and Machine Intelligence</em> (<i><b>IEEE TPAMI</b></i>), 2023
 \[[<font color="brown">paper</font>](https://ieeexplore.ieee.org/abstract/document/10048580){:target="blank"}\]  
     <details> <summary>bibtex</summary>   
-        Stay tuned!  
+        <br />@article{guo2023handling,
+        <br />title={Handling Open-set Noise and Novel Target Recognition in Domain Adaptive Semantic Segmentation},
+        <br />author={Guo, Xiaoqing and Liu, Jie and Liu, Tongliang and Yuan, Yixuan},
+        <br />journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
+        <br />year={2023},
+        <br />publisher={IEEE}
+        <br />}
+    </details>  
+&nbsp;
+
+* GRAB-Net: Graph-based Boundary-aware Network for Medical Point Cloud Segmentation  
+Yifan Liu, Wuyang Li, <b>Jie Liu</b>, Hui Chen, Yixuan Yuan.   
+<em>IEEE Transactions on Medical Imaging</em> (<i><b>IEEE TMI</b></i>), 2023.
+\[[<font color="brown">paper</font>](https://ieeexplore.ieee.org/document/10093984){:target="blank"}\]  
+    <details> <summary>bibtex</summary>   
+        <br />@article{liu2023grab,
+        <br />title={GRAB-Net: Graph-based Boundary-aware Network for Medical Point Cloud Segmentation},
+        <br />author={Liu, Yifan and Li, Wuyang and Liu, Jie and Chen, Hui and Yuan, Yixuan},
+        <br />journal={IEEE Transactions on Medical Imaging},
+        <br />year={2023},
+        <br />publisher={IEEE}
+        <br />}
+    </details>  
+&nbsp;
+
+
+### Conference
+* CLIP-Driven Universal Model for Organ Segmentation and Tumor Detection  
+<b>Jie Liu</b>, Yixiao Zhang, Jie-Neng Chen, Junfei Xiao, Yongyi Lu, Yixuan Yuan, Alan Yuille, Yucheng Tang, Zongwei Zhou  
+<em>IEEE International Conference on Computer Vision</em> (<i><b>ICCV</b></i>), 2023, Paris, France.
+\[[<font color="brown">paper</font>](https://arxiv.org/abs/2301.00785v5){:target="blank"}\]  \[[<font color="brown">code</font>](https://github.com/ljwztc/CLIP-Driven-Universal-Model){:target="blank"}\]  \[[<font color="brown">press</font>](https://mp.weixin.qq.com/s/lJP09sH098cMO0r1WnuVHg){:target="blank"}\]  \[[<font color="brown">Rank 1st in MSD</font>](https://decathlon-10.grand-challenge.org/evaluation/challenge/leaderboard){:target="blank"}\]  
+<small> Medical dataset is usually limited in size, partially labeled, and focuses narrowly on specific cancer types, constraining the AI model to detect only particular cancer types and may not be easily extended to new cancers. Thus, we develop an assembly of 14 datasets and propose the CLIP-Driven Universal Model. </small> 
+    <details> <summary>bibtex</summary>   
+        <br />Stay Tuned!
+    </details>  
+&nbsp;
+
+
+* Large Language-Image Model for Multi-Organ Segmentation and Cancer Detection from Computed Tomography  
+<b>Jie Liu</b>, Yixiao Zhang, Jie-Neng Chen, Junfei Xiao, Yongyi Lu, Yixuan Yuan, Alan Yuille, Yucheng Tang, Zongwei Zhou  
+<em>Radiological Society of North America</em> (<i><b>RSNA</b></i>), 2023, Chicago, Illinois. [<font color="red">Oral Presentation</font>]  
+\[[<font color="brown">paper</font>](){:target="blank"}\]  
+<small> We propose a large language-image model, which is computationally more efficient compared with dataset-specific models, generalized better to CT scans from varying sites, and shows stronger transfer learning performance on novel tasks. </small> 
+    <details> <summary>bibtex</summary>   
+        <br />Stay Tuned!
+    </details>  
+&nbsp;
+
+
+* Adjustment and Alignment for Unbiased Open Set Domain Adaptation  
+Wuyang Li, <b>Jie Liu</b>, Bo Han, Yixuan Yuan  
+<em>IEEE Conference on Computer Vision and Pattern Recognition</em> (<i><b>CVPR</b></i>), 2023, Vancouver, Canada.  
+\[[<font color="brown">paper</font>](https://openaccess.thecvf.com/content/CVPR2023/html/Li_Adjustment_and_Alignment_for_Unbiased_Open_Set_Domain_Adaptation_CVPR_2023_paper.html){:target="blank"}\]  \[[<font color="brown">code</font>](https://github.com/CityU-AIM-Group/Anna){:target="blank"}\]  
+<small> We decoupled images into base-class and novel-class regions and addreseed the biased learning in the source domain and biased cross-domain transfer with causal theory. </small> 
+    <details> <summary>bibtex</summary>   
+        <br />@inproceedings{li2023adjustment,
+        <br />title={Adjustment and Alignment for Unbiased Open Set Domain Adaptation},
+        <br />author={Li, Wuyang and Liu, Jie and Han, Bo and Yuan, Yixuan},
+        <br />booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+        <br />pages={24110--24119},
+        <br />year={2023}
+        <br />}
     </details>  
 &nbsp;
 
